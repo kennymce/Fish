@@ -5,15 +5,10 @@
     <option name="CUSTOM_SCOPE_NAME" value="Current File" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f509577-2ee7-4259-acf3-007e0689a638" name="Default" comment="Started adding the rule where you can take a card from another player when you've just gotten a book (PIP) and the deck is empty.&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="7f509577-2ee7-4259-acf3-007e0689a638" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kennymce/games/Game.class" afterPath="$PROJECT_DIR$/target/classes/com/kennymce/games/Game.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kennymce/games/Player.class" afterPath="$PROJECT_DIR$/target/classes/com/kennymce/games/Player.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/Fish.log" afterPath="$PROJECT_DIR$/log/Fish.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/kennymce/games/Game.java" afterPath="$PROJECT_DIR$/src/main/java/com/kennymce/games/Game.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/kennymce/games/Pip.java" afterPath="$PROJECT_DIR$/src/main/java/com/kennymce/games/Pip.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/kennymce/games/Player.java" afterPath="$PROJECT_DIR$/src/main/java/com/kennymce/games/Player.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -660,6 +655,14 @@
       <option name="presentableId" value="Default" />
       <updated>1486233119500</updated>
     </task>
+    <task id="LOCAL-00001" summary="Started adding the rule where you can take a card from another player when you've just gotten a book (PIP) and the deck is empty.&#10;">
+      <created>1489259318839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1489259318839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
