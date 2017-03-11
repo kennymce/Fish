@@ -114,12 +114,6 @@ public class Game extends Observable {
                                 //The player said 'fish'
                                 fishLogger.LogMessage(playerToAsk.getName().toString() + " says Fish");
                                 Card card = dealer.DealCard();
-                                if (card == null){
-                                    //No cards left so take a card randomly from somebody else
-                                    turnResult = player.takeYourTurn();
-                                    //TODO we need a re-factor here because now a player can effectively have >1 turn
-                                }
-
                                 if (card != null){
                                     player.takeCard(card);
                                     fishLogger.LogMessage("Player "+player.getName().toString()+" draws "+
@@ -127,12 +121,31 @@ public class Game extends Observable {
                                 }
                             }
                         }
-                        //TODO Take a card from another player when it's still your turn and the deck is empty
+
                         //is this player out of cards?
                         if (player.NumberOfCards()==0){
+                            if (player.isGotABook()){
+                                //TODO this bit needs a re-factor (duplicating code from above)
+                                fishLogger.LogMessage("*&*&*&*&*&*&* Cheeky Turn *&*&*&*&*&*&*");
+                                TurnResult cheekyTurn = player.takeRandomCardFromAnyPlayer();
+                                this.notifyTurn(cheekyTurn);
+                                Player playerToAsk = turnResult.getPlayer();
+                                Cards cardsFromThePlayer = playerToAsk.ask(cheekyTurn,player);
+                                if (cardsFromThePlayer.size()>0){
+                                    //add the cards from this player to the asking player
+                                    String takingCards;
+                                    for (Card card: cardsFromThePlayer){
+                                        takingCards = cheekyTurn.getAskingPlayer().getName().toString() +
+                                                " takes " + card.getValue() + " of " + card.getSuit() +
+                                                " from " + cheekyTurn.getPlayer();
+                                        fishLogger.LogMessage(takingCards);
+                                        player.takeCard(card);
+                                    }
+                                }
+                            }
                             //Cannot remove from the players collection whilst iterating over it
                             //so we add to another collection
-                            //TODO when should a player be removed from the game?
+                            //TODO when should a player really be removed from the game?
                             RemovePlayerFromGame(player);
                         }
                     }

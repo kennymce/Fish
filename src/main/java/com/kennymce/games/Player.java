@@ -10,6 +10,12 @@ public class Player {
     private final PlayerInfo.PlayerType type;
     private final Cards cards = new Cards();
 
+    public boolean isGotABook() {
+        return gotABook;
+    }
+
+    private boolean gotABook = false;
+
     public int getBooks() {
         return books;
     }
@@ -87,7 +93,7 @@ public class Player {
                 StringBuilder sb = new StringBuilder(booksList).append(",").append(newBook);
                 booksList = sb.toString();
             }
-            books++;
+            AddBook();
             whoHasWhat.remove(newBook);
         }
         //Now remove all the cards in cardsToRemove from playerCards
@@ -98,6 +104,12 @@ public class Player {
             }
         }
     }
+
+    private void AddBook() {
+        books++;
+        gotABook = true;
+    }
+
     public TurnResult takeYourTurn(){
         //Check your cards and if you have two of any Pip then
         //return the Pip and a random player number so that the
@@ -105,6 +117,7 @@ public class Player {
         //if you don't have any cards left (e.g. if someone just took your last card)
         //then you don't get a turn
         TurnResult theResult = null;
+        gotABook = false;
         try {
             if (cards.size()>0){
                 String logMessage;
@@ -215,6 +228,12 @@ public class Player {
         return cards.size();
     }
 
+    public TurnResult takeRandomCardFromAnyPlayer(){
+        Player theUnluckyPlayer = playersInPlay.RandomPlayer();
+        //TODO this is causing a null exception in the logging - may need to rethink the null PIP idea
+        TurnResult turnResult = new TurnResult(theUnluckyPlayer,null,this);
+        return turnResult;
+    }
 
     //DEBUG METHODS
     public String toString(){
