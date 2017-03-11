@@ -1,0 +1,19 @@
+package com.kennymce.games;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+public class FishLogger {
+    final Logger fishLogger = LogManager.getLogger("Fish");
+
+    public void LogMessage(String str){
+        System.out.println(str);
+        //Newline before string to make the messages neater
+        str = System.lineSeparator().concat(str);
+        fishLogger.info(str);
+    }
+
+    public void LogError(String message, Exception e){
+        fishLogger.error(e);
+    }
+}
