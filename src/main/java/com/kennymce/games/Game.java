@@ -76,7 +76,7 @@ public class Game extends Observable {
         dealer.dealPlayerCards(this.players);
     }
 
-    public void notifyTurn(TurnResult turnResult){
+    private void notifyTurn(TurnResult turnResult){
         setChanged();
         notifyObservers(turnResult);
     }
@@ -88,6 +88,11 @@ public class Game extends Observable {
             while(playersOut.Size()<players.Size()-1){
                 for (Player player:players) {
                     if (!playersOut.contains(player)){
+                        //TODO player can keep going if:
+                        //1. Player hasn't had their turn yet
+                        //2. Player got the PIP they asked for from another player
+                        //3. Player got the PIP they asked for from another player, and they said fish,
+                        //   and the deck gave them that PIP
                         TurnResult turnResult = player.takeYourTurn();
                         if (turnResult != null){
                             this.notifyTurn(turnResult);

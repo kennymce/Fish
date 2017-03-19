@@ -1,1405 +1,649 @@
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Player Kenny McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Susie McEwan
-PIP: Three
+PIP: Ten
 askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Kenny McEwan asking Susie McEwan for Three
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Susie McEwan for Three
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Kenny McEwan asking Susie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Kenny McEwan asking Susie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Susie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan draws Ace of Clubs
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan draws Three of Spades
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Player Susie McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Nine
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan giving up Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Ellie McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Ellie McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan takes Nine of Hearts from Ellie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Six
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Mia McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Mia McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan draws Ace of Diamonds
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Three
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Susie McEwan for Three
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Mia McEwan asking Susie McEwan for Three
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan draws Three of Clubs
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 0 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Three
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan giving up Three
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan giving up Three
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Mia McEwan for Three
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Kenny McEwan asking Mia McEwan for Three
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan takes Three of Spades from Mia McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan takes Three of Clubs from Mia McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Nine
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Kenny McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Kenny McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan draws Six of Spades
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Six
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Mia McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Mia McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan draws Two of Spades
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Seven
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Ellie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Ellie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan draws Queen of Spades
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 1 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan draws Two of Hearts
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 8 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Nine
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Ellie McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Ellie McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan draws Four of Diamonds
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Two
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Susie McEwan for Two
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Susie McEwan for Two
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan draws King of Diamonds
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Seven
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Ellie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Ellie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan draws Five of Hearts
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 2 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan giving up Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Kenny McEwan asking Susie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Susie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan takes Four of Diamonds from Susie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 8 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Nine
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Ellie McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Ellie McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan draws Ace of Spades
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 8 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: King
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan giving up King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Susie McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Susie McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan takes King of Hearts from Susie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Five
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Ellie McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Ellie McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan draws Seven of Spades
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 3 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan draws Ten of Spades
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 8 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Nine
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Kenny McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Kenny McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan draws Ace of Hearts
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 9 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: King
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Mia McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Mia McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan draws Seven of Hearts
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 8 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Five
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Ellie McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Ellie McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan draws Four of Hearts
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 4 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 8 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Kenny McEwan asking Susie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Susie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan draws Jack of Diamonds
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 9 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Mia McEwan
 PIP: Nine
 askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan giving up Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Kenny McEwan hears Susie McEwan asking Mia McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Ellie McEwan hears Susie McEwan asking Mia McEwan for Nine
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan takes Nine of Diamonds from Mia McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan draws Ace of Clubs
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 10 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan has 6 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Susie McEwan
+PIP: Nine
+askingPlayer: Ellie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan giving up Nine
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Ellie McEwan asking Susie McEwan for Nine
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Ellie McEwan asking Susie McEwan for Nine
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan takes Nine of Clubs from Susie McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Mia McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan has 6 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Kenny McEwan
-PIP: King
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Kenny McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Kenny McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+PIP: Six
+askingPlayer: Mia McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Mia McEwan asking Kenny McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Mia McEwan asking Kenny McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Kenny McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan draws Jack of Clubs
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan draws Eight of Spades
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+*********Turn 0 Finished**********
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Kenny McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan has 7 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Ellie McEwan
+PIP: Ten
+askingPlayer: Kenny McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan giving up Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Kenny McEwan asking Ellie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Kenny McEwan asking Ellie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan takes Ten of Spades from Ellie McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Susie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan has 6 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Ellie McEwan
+PIP: Ace
+askingPlayer: Susie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Susie McEwan asking Ellie McEwan for Ace
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Susie McEwan asking Ellie McEwan for Ace
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan draws Five of Clubs
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Ellie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan has 6 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Susie McEwan
+PIP: Nine
+askingPlayer: Ellie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Ellie McEwan asking Susie McEwan for Nine
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Ellie McEwan asking Susie McEwan for Nine
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan draws Eight of Clubs
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan has 7 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Susie McEwan
+PIP: Six
+askingPlayer: Mia McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan giving up Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Mia McEwan asking Susie McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Mia McEwan asking Susie McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan takes Six of Spades from Susie McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+*********Turn 1 Finished**********
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Kenny McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan has 8 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Ellie McEwan
+PIP: Ten
+askingPlayer: Kenny McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Kenny McEwan asking Ellie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Kenny McEwan asking Ellie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan draws Ace of Diamonds
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Susie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan has 6 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Kenny McEwan
+PIP: Five
+askingPlayer: Susie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Susie McEwan asking Kenny McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Susie McEwan asking Kenny McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan draws Seven of Spades
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Ellie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan has 7 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Susie McEwan
+PIP: Nine
+askingPlayer: Ellie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Ellie McEwan asking Susie McEwan for Nine
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Ellie McEwan asking Susie McEwan for Nine
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan draws Nine of Diamonds
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Mia McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Player Mia McEwan has 8 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Kenny McEwan
+PIP: Six
+askingPlayer: Mia McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Mia McEwan asking Kenny McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Mia McEwan asking Kenny McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan draws Ten of Diamonds
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+*********Turn 2 Finished**********
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Kenny McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan has 9 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Mia McEwan
+PIP: Ten
+askingPlayer: Kenny McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan giving up Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Kenny McEwan asking Mia McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Kenny McEwan asking Mia McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan takes Ten of Diamonds from Mia McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Susie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan has 7 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Kenny McEwan
+PIP: Five
+askingPlayer: Susie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Susie McEwan asking Kenny McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Susie McEwan asking Kenny McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan draws King of Clubs
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Ellie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan has 4 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Mia McEwan
+PIP: Eight
+askingPlayer: Ellie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan giving up Eight
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Ellie McEwan asking Mia McEwan for Eight
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Ellie McEwan asking Mia McEwan for Eight
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan takes Eight of Spades from Mia McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Mia McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan has 7 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Kenny McEwan
+PIP: Six
+askingPlayer: Mia McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Mia McEwan asking Kenny McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Mia McEwan asking Kenny McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan draws Three of Diamonds
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+*********Turn 3 Finished**********
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Kenny McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan has 10 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Ellie McEwan
+PIP: Ten
+askingPlayer: Kenny McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Kenny McEwan asking Ellie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Kenny McEwan asking Ellie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan draws Any of Spades
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Susie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan has 8 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Ellie McEwan
 PIP: Five
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Ellie McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Ellie McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan draws Queen of Diamonds
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 5 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 9 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Jack
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan giving up Jack
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Jack
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Jack
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan takes Jack of Clubs from Ellie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Ace
 askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan draws Five of Diamonds
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Susie McEwan asking Ellie McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Susie McEwan asking Ellie McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan draws Seven of Diamonds
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 10 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan has 5 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Kenny McEwan
-PIP: King
+PIP: Eight
 askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Kenny McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Kenny McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Ellie McEwan asking Kenny McEwan for Eight
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Ellie McEwan asking Kenny McEwan for Eight
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Kenny McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan draws Eight of Hearts
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan draws Queen of Hearts
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 9 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan has 8 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Ellie McEwan
+PIP: Six
+askingPlayer: Mia McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Mia McEwan asking Ellie McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Mia McEwan asking Ellie McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan draws Jack of Diamonds
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+*********Turn 4 Finished**********
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Kenny McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan has 11 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Susie McEwan
-PIP: Queen
+PIP: Ten
+askingPlayer: Kenny McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Kenny McEwan asking Susie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Kenny McEwan asking Susie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan draws Jack of Spades
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Susie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan has 9 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Kenny McEwan
+PIP: Five
+askingPlayer: Susie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Susie McEwan asking Kenny McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Susie McEwan asking Kenny McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan draws Two of Spades
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Ellie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan has 6 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Kenny McEwan
+PIP: Eight
+askingPlayer: Ellie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Ellie McEwan asking Kenny McEwan for Eight
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Ellie McEwan asking Kenny McEwan for Eight
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan draws Ten of Clubs
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Mia McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan has 9 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Susie McEwan
+PIP: Jack
 askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan giving up Queen
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Susie McEwan for Queen
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Mia McEwan asking Susie McEwan for Queen
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan takes Queen of Clubs from Susie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 6 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Mia McEwan asking Susie McEwan for Jack
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Mia McEwan asking Susie McEwan for Jack
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan draws Four of Diamonds
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+*********Turn 5 Finished**********
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 10 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan has 12 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Mia McEwan
 PIP: Jack
 askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan giving up Jack
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan giving up Jack
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Susie McEwan hears Kenny McEwan asking Mia McEwan for Jack
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Ellie McEwan hears Kenny McEwan asking Mia McEwan for Jack
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan draws Two of Clubs
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan takes Jack of Diamonds from Mia McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan takes Jack of Clubs from Mia McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan has 10 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Mia McEwan
-PIP: Ace
+PIP: Five
 askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan draws King of Spades
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan giving up Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Susie McEwan asking Mia McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Susie McEwan asking Mia McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan takes Five of Diamonds from Mia McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 11 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan has 7 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Susie McEwan
+PIP: Eight
+askingPlayer: Ellie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Ellie McEwan asking Susie McEwan for Eight
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Ellie McEwan asking Susie McEwan for Eight
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan draws Any of Hearts
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Mia McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan has 7 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Kenny McEwan
-PIP: King
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Kenny McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Kenny McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan draws Four of Spades
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 10 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Queen
+PIP: Six
 askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan giving up Queen
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Ellie McEwan for Queen
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Ellie McEwan for Queen
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan takes Queen of Hearts from Ellie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 7 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Mia McEwan asking Kenny McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Mia McEwan asking Kenny McEwan for Six
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan draws Four of Clubs
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+*********Turn 6 Finished**********
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan has 10 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Susie McEwan
+PIP: Ten
+askingPlayer: Kenny McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Kenny McEwan asking Susie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Kenny McEwan asking Susie McEwan for Ten
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan draws Three of Clubs
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Susie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan has 11 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Kenny McEwan
+PIP: Five
+askingPlayer: Susie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Susie McEwan asking Kenny McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Susie McEwan asking Kenny McEwan for Five
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan draws Two of Diamonds
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Ellie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan has 8 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Mia McEwan
+PIP: Any
+askingPlayer: Ellie McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Ellie McEwan asking Mia McEwan for Any
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Ellie McEwan asking Mia McEwan for Any
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan takes Six of Diamonds from Mia McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Mia McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan has 7 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Susie McEwan
+PIP: Four
+askingPlayer: Mia McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan giving up Four
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Mia McEwan asking Susie McEwan for Four
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Mia McEwan asking Susie McEwan for Four
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan takes Four of Hearts from Susie McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+*********Turn 7 Finished**********
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Kenny McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Player Kenny McEwan has 11 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Creating TurnResult: 
+player: Susie McEwan
+PIP: Three
+askingPlayer: Kenny McEwan
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan hears Kenny McEwan asking Susie McEwan for Three
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Kenny McEwan asking Susie McEwan for Three
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan draws Queen of Clubs
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+################### Player Susie McEwan's Turn ################### 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan has 11 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Ellie McEwan
 PIP: Two
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan giving up Two
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan giving up Two
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Two
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Two
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan takes Two of Spades from Ellie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan takes Two of Diamonds from Ellie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Ace
 askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan draws Eight of Spades
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan hears Susie McEwan asking Ellie McEwan for Two
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Susie McEwan asking Ellie McEwan for Two
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan says Fish
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Susie McEwan draws Queen of Spades
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Player Ellie McEwan has 9 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: King
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan giving up King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Susie McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Susie McEwan for King
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan takes King of Spades from Susie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Kenny McEwan
-PIP: Five
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan giving up Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Kenny McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Mia McEwan asking Kenny McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan takes Five of Spades from Kenny McEwan, MALE, REALPERSON
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 8 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 8 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Jack
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Jack
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Jack
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan draws Six of Clubs
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Ace
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan draws Ten of Hearts
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Four
+PIP: Any
 askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Susie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Susie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan draws Eight of Clubs
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Ellie McEwan asking Kenny McEwan for Any
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Ellie McEwan asking Kenny McEwan for Any
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Ellie McEwan takes Queen of Clubs from Kenny McEwan, MALE, REALPERSON
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Player Mia McEwan has 8 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Five
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Ellie McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Ellie McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 9 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 9 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Jack
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan giving up Jack
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Kenny McEwan asking Susie McEwan for Jack
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Susie McEwan for Jack
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan takes Jack of Hearts from Susie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Ace
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan giving up Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan takes Eight of Diamonds from Mia McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Five
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan giving up Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Susie McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Mia McEwan asking Susie McEwan for Five
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan takes Five of Diamonds from Susie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 10 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan giving up Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan takes Four of Spades from Ellie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Ace
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Mia McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 4 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Seven
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan giving up Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Kenny McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Mia McEwan asking Kenny McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan takes Seven of Clubs from Kenny McEwan, MALE, REALPERSON
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 11 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Ace
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan giving up Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Ellie McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Ellie McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan takes Ace of Diamonds from Ellie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Kenny McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Kenny McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Seven
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Kenny McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Mia McEwan asking Kenny McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 12 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 7 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Ace
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan giving up Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Kenny McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Kenny McEwan for Ace
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan takes Ace of Clubs from Kenny McEwan, MALE, REALPERSON
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 6 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Kenny McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Kenny McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Seven
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Susie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Mia McEwan asking Susie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 13 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 4 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Six
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan giving up Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Ellie McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Ellie McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan takes Six of Diamonds from Ellie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Seven
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Susie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Mia McEwan asking Susie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 14 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Six
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Ellie McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Ellie McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Seven
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Susie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Mia McEwan asking Susie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 15 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Six
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Ellie McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Ellie McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Kenny McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Kenny McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Seven
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan giving up Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Ellie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Ellie McEwan for Seven
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan takes Seven of Hearts from Ellie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 16 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Kenny McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Six
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Ellie McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Ellie McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 4 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 2 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Ellie McEwan
 PIP: Four
 askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Kenny McEwan hears Mia McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Susie McEwan hears Mia McEwan asking Ellie McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 17 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Mia McEwan draws Two of Clubs
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+*********Turn 8 Finished**********
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 ################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Four
-askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan giving up Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Mia McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Kenny McEwan asking Mia McEwan for Four
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan takes Four of Hearts from Mia McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Kenny McEwan has 11 cards.
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
 Creating TurnResult: 
 player: Ellie McEwan
-PIP: Six
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Ellie McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Ellie McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 4 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Kenny McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Kenny McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 1 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Ten
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan giving up Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Kenny McEwan for Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Mia McEwan asking Kenny McEwan for Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan takes Ten of Spades from Kenny McEwan, MALE, REALPERSON
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 18 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Kenny McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan has 1 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Six
+PIP: Three
 askingPlayer: Kenny McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Kenny McEwan asking Mia McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Kenny McEwan asking Mia McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 5 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Kenny McEwan
-PIP: Six
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Kenny McEwan giving up Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Kenny McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Susie McEwan asking Kenny McEwan for Six
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan takes Six of Clubs from Kenny McEwan, MALE, REALPERSON
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 4 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Ellie McEwan asking Mia McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan says Fish
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Mia McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan has 2 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Ellie McEwan
-PIP: Ten
-askingPlayer: Mia McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan giving up Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Mia McEwan asking Ellie McEwan for Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan hears Mia McEwan asking Ellie McEwan for Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan takes Ten of Clubs from Ellie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*********Turn 19 Finished**********
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-++++++++++++++Kenny McEwan is out of the game ++++++++++++++
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan learns that Player Kenny McEwan is out.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan learns that Player Kenny McEwan is out.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan learns that Player Kenny McEwan is out.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Susie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan has 2 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Mia McEwan
-PIP: Ten
-askingPlayer: Susie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan giving up Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan giving up Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Mia McEwan giving up Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Susie McEwan asking Mia McEwan for Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan hears Susie McEwan asking Mia McEwan for Ten
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan takes Ten of Spades from Mia McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan takes Ten of Diamonds from Mia McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Susie McEwan takes Ten of Clubs from Mia McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-################### Player Ellie McEwan's Turn ################### 
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Ellie McEwan has 3 cards.
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Creating TurnResult: 
-player: Susie McEwan
-PIP: Eight
-askingPlayer: Ellie McEwan
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Player Susie McEwan giving up Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Kenny McEwan hears Ellie McEwan asking Susie McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Mia McEwan hears Ellie McEwan asking Susie McEwan for Eight
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-Ellie McEwan takes Eight of Spades from Susie McEwan, FEMALE, COMPUTER
-2017-03-11 18:50:58 [main] INFO  Fish:13 - 
-*&*&*&*&*&*&* Cheeky Turn *&*&*&*&*&*&*
-2017-03-11 18:52:20 [main] ERROR Fish:17 - java.lang.NullPointerException
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Player Ellie McEwan giving up Three
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Susie McEwan hears Kenny McEwan asking Ellie McEwan for Three
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Mia McEwan hears Kenny McEwan asking Ellie McEwan for Three
+2017-03-19 16:08:21 [main] INFO  Fish:13 - 
+Kenny McEwan takes Three of Hearts from Ellie McEwan, FEMALE, COMPUTER
+2017-03-19 16:08:21 [main] ERROR Fish:18 - java.lang.NullPointerException
+2017-03-19 16:08:21 [main] ERROR Fish:19 - [Ljava.lang.StackTraceElement;@e41621

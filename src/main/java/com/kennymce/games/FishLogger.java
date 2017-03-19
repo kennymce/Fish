@@ -14,6 +14,9 @@ public class FishLogger {
     }
 
     public void LogError(String message, Exception e){
+        String trace =  Thread.currentThread().getStackTrace().toString();
         fishLogger.error(e);
+        //TODO this isn't giving me the stack trace!
+        fishLogger.error(trace);
     }
 }

@@ -157,23 +157,31 @@ public class Player {
     public Cards ask(TurnResult theTurnResult, Player askingPlayer){
         //Player is asked for a Pip.
         //Return those cards for that Pip or null if none
+        //If the Pip is Any then they have to give up a random card
         Cards returnCards = new Cards();
         Cards removeCards = new Cards();
-        for (Card card: cards){
-            if (theTurnResult.getPip() == card.getValue()){
-                returnCards.addCard(card);
-                fishLogger.LogMessage("Player "+this.getName().toString()+" giving up "
-                        + card.getValue().name());
-                //Add the card to a collection of cards to remove from playerCards
-                removeCards.addCard(card);
+        if (theTurnResult.getPip() == Pip.Any){
+            //Give up a random card
+            Card c = cards.randomCard();
+            removeCards.addCard(c);
+            returnCards.addCard(c);
+        } else { //Just a normal turn e.g. 'give me your fives'
+            for (Card card: cards){
+                if (theTurnResult.getPip() == card.getValue()){
+                    returnCards.addCard(card);
+                    fishLogger.LogMessage("Player "+this.getName().toString()+" giving up "
+                            + card.getValue().name());
+                    //Add the card to a collection of cards to remove from playerCards
+                    removeCards.addCard(card);
+                }
             }
-        } for (Card card: removeCards){
+        }
+        for (Card card: removeCards){
             cards.remove(card);
         }
-
-        //Finally, remember that you were asked for this
+        //Finally, remember that you were asked for this - even if Pip.Any
         whoHasWhat.put(theTurnResult.getPip(), askingPlayer);
-        //and REALLY finally, remove this from your pips
+        //and REALLY finally, remove this from your pips - even if Pip.Any
         pips.remove(theTurnResult.getPip());
         return returnCards;
     }
@@ -231,7 +239,7 @@ public class Player {
     public TurnResult takeRandomCardFromAnyPlayer(){
         Player theUnluckyPlayer = playersInPlay.RandomPlayer();
         //TODO this is causing a null exception in the logging - may need to rethink the null PIP idea
-        TurnResult turnResult = new TurnResult(theUnluckyPlayer,null,this);
+        TurnResult turnResult = new TurnResult(theUnluckyPlayer,Pip.Any,this);
         return turnResult;
     }
 

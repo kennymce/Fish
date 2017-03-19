@@ -3,6 +3,7 @@ package com.kennymce.games;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.ListIterator;
+import java.util.Random;
 
 public class Cards implements Iterable<Card>{
     protected LinkedList<Card> cards = new LinkedList<>();
@@ -29,6 +30,17 @@ public class Cards implements Iterable<Card>{
     }
     public void remove(Card theCard){
         cards.remove(theCard);
+    }
+    public Card randomCard(){
+        int index = 0;
+        try {
+            Random randomGenerator = new Random();
+            index = randomGenerator.nextInt(cards.size());
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            return cards.get(index);
+        }
     }
     public void shuffle(){
         Collections.shuffle(cards);
